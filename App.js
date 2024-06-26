@@ -34,6 +34,7 @@ export default () => {
                 renderItem={renderSong}
                 ItemSeparatorComponent={renderSeperator}
                 />
+                
         </SafeAreaView>
     )
 }
